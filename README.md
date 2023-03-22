@@ -3,11 +3,11 @@ Created a simple blog site using the CRUD method. Learned how to interact with d
 
 
 ## How to start server:
-npm run devStart to run the server
+* npm run devStart to run the server
 
 ## How to open up the site:
-change into client directory
-npm run start
+* change into client directory
+* npm run start
 
 Frameworks:
 * Express.js 
