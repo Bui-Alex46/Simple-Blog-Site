@@ -1,0 +1,14 @@
+.btn-edit{
+    display:flex;
+    background-color: rgb(135, 232, 135);
+    padding: 5px;
+    align-items: center;
+    width: 5rem;
+    height: 2rem;
+    flex-direction: column;
+}
+.form{
+    display: flex;
+    margin-left : 5rem;
+
+}
